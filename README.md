@@ -9,6 +9,6 @@ Does not Support
  - Currently no multithreading support
 
 Todo
- - Add SSE support
- - Add Unit testing
- - Add CLI
+ - [ ] Add SSE support
+ - [ ] Add Unit testing
+ - [ ] Add CLI
