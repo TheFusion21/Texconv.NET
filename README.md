@@ -7,3 +7,8 @@ Support
 Does not Support
  - Some functions have been removed to make it more crossplatform friendly
  - Currently no multithreading support
+
+Todo
+ - Add SSE support
+ - Add Unit testing
+ - Add CLI
